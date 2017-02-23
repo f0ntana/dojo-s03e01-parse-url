@@ -1,0 +1,12 @@
+{
+    "require": {
+        "phpunit/phpunit": "^4.7"
+    },
+
+    "autoload": {
+        "classmap": [ "src" ]
+    },
+    "require-dev": {
+        "codeclimate/php-test-reporter": "^0.1.2"
+    }
+}
